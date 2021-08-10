@@ -1,0 +1,52 @@
+html, body {
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+.nav {
+    background-color: white;
+}
+
+.Arc {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+ align-items: center;
+}
+
+.Mec {
+    display: block;
+    margin-left: 100px;
+    width: 15%;
+    align-items: center;
+   }
+
+.Mec_title {
+    text-align: center;
+ color: white;
+}
+
+.Mec_word {
+    text-align: center;
+ color: white;
+}
+
+header {
+text-align: center;
+}
+
+section {
+    background-color: aqua;
+    margin: 10px 10px 10px 10px;
+}
+
+article {
+    background-color: blanchedalmond;
+    margin: 10px;
+}
